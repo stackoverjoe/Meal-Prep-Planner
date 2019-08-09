@@ -1,0 +1,10 @@
+Joe's Burger,Better than your mom's burger,Joe's House,Beef-Cheese-Chips,12.34
+Apple Pie,Just like grandma used to make,Nana's House,Apples-Love,0.00
+Roasted Pig,The whole shebang.,Estacada,Big Pig-Mouth Apple,179.00
+Mac Salad,Mayo and Mac has got your back., Canada,Macaroni Noodles-Mayo-Pickles,9.99
+Teriyaki Chicken,Sweet, with a hint of chicken.,California,Sugar-Chicken,15.50
+Grilled Cheese,Melty Cheese for all your needs.,Italy,Cheese-Bread-Butter,8.00
+White Rice,Steamed with authentic steam,Florida,Rice Grains,4.99
+Brownie Pie,Pie filled with brownies.,Puget Sound,Sugar-Sugar-Sugar,11.00
+Fish Sticks,Best sticks in town.,Sea Side,Cod-Breading,14.50
+Smokehouse Bacon Beast,2lb. patty, Guaranteed to hurt.,Texas,Bacon-Beef-Cheese,19.99

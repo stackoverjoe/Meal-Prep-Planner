@@ -1,0 +1,10 @@
+1,2,Red Robin,3,Burger Pile,13.99,Meat-Cheese-Lettuce,Oregon,Unlimited Fries.
+0,1,Blue Apron,4,Cabbage Sandwich,19.99,Cabbage-Bread-Salt,Washington,The cabbage that makes you go "eesh".
+1,13,Shari's,2,Nachos,14.99,Chips-Cheese-Beef,Oregon,Mounds of cheese and beef ayee.
+0,0,Meals for Home,5,Alfredo Kit,19.99,Fettuccine-Alfredo-Basil,California,Rich, creamy, healthy fun.
+1,9,Olive Garden,3,Soup-salad combo,9.99,Chicken-Romain-Breadsticks,Oregon,More food than you should be considering.
+0,1,Joe's Mac and Cheese Delivery,5,Mac and Cheese,29.99,Cavatapi-Reggiano-Bread Crumbs,Oregon,Best mac and cheese in the world*.
+1,11,Sushi Town,3,California Role,5.99,Crab-Avacado-Rice,Oregon,Rolls for the whole family.
+0,1,Meals on Wheels,4,Country Fried Steak,17.99,steak,Oregon,It's Country, and it's fried.
+1,16,Twigs,5,Crab Mac and Cheese,23.99,Crab-Shells-Cheese,Oregon,This one is real and actually amazing (BridgePort).
+0,0,DoorFood,1,Door Shaped Cake,16.99,Cake,Oregon,Cake shaped right.
